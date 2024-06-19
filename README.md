@@ -37,7 +37,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## About VoidWare
 
-VoidWare is a team of passionate Lethal Company mod developers dedicated to enhancing your gaming experience. For more information about us and our projects, visit [our GitHub page](https://github.com/VVoiddd/LCAT).
+VoidWare is a team of 3 people, we all slightly contribute to stuff but rarely actually post it, if we do have something posted its probaly on our github or our discord, visit [our GitHub page](https://github.com/VVoiddd).
 
 Happy teleporting!
 
